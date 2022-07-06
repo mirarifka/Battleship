@@ -24,6 +24,7 @@ body {
   border-radius: 50%;
   margin: 5px;
   background-color: white;
+  cursor: pointer;
 }
 
 .playAgain {
@@ -37,8 +38,10 @@ body {
 
 .playerRed {
   background-color: red;
+  opacity: 0;
 }
 
 .playerYellow {
   background-color: yellow;
+  opacity: 0;
 }
