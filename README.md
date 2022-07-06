@@ -42,3 +42,4 @@ Connect Four
 **Connect Four Image**: [DuckDuckGo Search](https://duckduckgo.com/)  
 **Markdown Guide**: [MarkdownGuide.org](https://www.markdownguide.org/cheat-sheet/)  
 **Markdown Cheatsheet**: [GitHub](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+**Stack Overflow**: [Creating an Array of Ids](https://stackoverflow.com/questions/42889493/creating-an-array-of-ids)
