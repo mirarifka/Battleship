@@ -18,7 +18,7 @@ body {
   margin: 0 auto;
 }
 
-.cell {
+.board div {
   width: 100px;
   height: 95px;
   border-radius: 50%;
@@ -38,10 +38,8 @@ body {
 
 .playerRed {
   background-color: red;
-  opacity: 0;
 }
 
 .playerYellow {
   background-color: yellow;
-  opacity: 0;
 }

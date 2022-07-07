@@ -20,6 +20,12 @@ Two player game, each player chooses a color and then takes turns picking a spot
 
 ---
 
+### Surge Link
+
+[Surge Published Site](stern-connect-four.surge.sh)
+
+---
+
 ### **_Technologies Used_**
 
 - HTML
@@ -42,4 +48,5 @@ Connect Four
 **Connect Four Image**: [DuckDuckGo Search](https://duckduckgo.com/)  
 **Markdown Guide**: [MarkdownGuide.org](https://www.markdownguide.org/cheat-sheet/)  
 **Markdown Cheatsheet**: [GitHub](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)  
-**Stack Overflow**: [Creating an Array of Ids](https://stackoverflow.com/questions/42889493/creating-an-array-of-ids)
+**Stack Overflow**: [Creating an Array of Ids](https://stackoverflow.com/questions/42889493/creating-an-array-of-ids)  
+**W3 Schools**: [onclick Event](https://www.w3schools.com/jsref/event_onclick.asp)
