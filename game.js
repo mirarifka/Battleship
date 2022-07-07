@@ -1,4 +1,4 @@
-let circle = document.querySelectorAll('.cell')
+let cell = document.querySelectorAll('.cell')
 let playAgain = document.querySelector('.playAgain')
 let board = document.querySelector('.board')
 let playerRed = 'Red'
@@ -27,3 +27,24 @@ const startGame = () => {
 }
 
 let restartGame = () => {}
+
+cell.forEach((cell) => {
+  cell.addEventListener('click', () => {
+    if (cell.innerText.trim() !== '') {
+      return
+    }
+    cell.style.background = currentPlayer
+    currentPlayer = currentPlayer === 'Red' ? 'Yellow' : 'Red'
+    let players = () => {
+      if (currentPlayer === 'Red') {
+        playerRed.style.background = red
+      } else if (currentPlayer === 'Yellow') {
+        playerYellow.style.background = yellow
+      } else {
+        return
+      }
+    }
+    if ((playerRed.style.background = red)) {
+    }
+  })
+})
